@@ -144,7 +144,7 @@ class MailChimp {
         $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         curl_close($ch);
     
-        // return $httpCode;
+        return $httpCode;
     }
     public function is_address_null($address) {
 
@@ -196,6 +196,7 @@ class MailChimp {
     }
 
     public function post( $submission ) {
+
 
         $enabled = get_option('cwp__enable__mailchimp') === '1' ? true : false;
                 

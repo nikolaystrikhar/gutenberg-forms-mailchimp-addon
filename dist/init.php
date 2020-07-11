@@ -13,7 +13,7 @@ add_filter('gutenberg_forms_integrations', function($integrations) {
 
     $arguments = array(
         'title' => 'Mail Chimp',
-        'is_pro'  => true,
+        'is_pro'  => false,
         'type'  => 'autoResponder',
         'guide' => file_get_contents( $guide ),
         'description' => 'Mailchimp Addon for Gutenberg Forms lets you connect Mailchimp with your form. You can send leads to any of your lists in Mailchimp when a user submits the form.',
