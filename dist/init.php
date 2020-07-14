@@ -6,7 +6,7 @@ require_once plugin_dir_path( __FILE__  ) . 'api.php';
 
 add_filter('gutenberg_forms_integrations', function($integrations) {
 
-    $mailChimp = new MailChimp();
+    $mailChimp = new cwp_gf_addon_MailChimp();
     $guide = plugin_dir_path( __FILE__ ) . 'guide/guide.html';
 
     $available_lists = $mailChimp->get_lists();
@@ -77,7 +77,7 @@ add_filter('gutenberg_forms_integrations', function($integrations) {
 
 add_action('gutenberg_forms_submission__mailchimp', function($entry) {
 
-    $mailChimp = new MailChimp();
+    $mailChimp = new cwp_gf_addon_MailChimp();
 
     $mailChimp->post( $entry );
 
