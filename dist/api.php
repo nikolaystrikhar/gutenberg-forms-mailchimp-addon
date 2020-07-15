@@ -22,6 +22,10 @@ class cwp_gf_addon_MailChimp {
         $connection_uri = self::proxy . 'lists/';
 
         $response =  $this->fetch_list( $this->api_key );
+        
+        
+        if (gettype( $response ) !== 'string') return []; // this means that fetched failed
+
         $data = json_decode($response);
 
         $lists_names = array();
@@ -138,7 +142,6 @@ class cwp_gf_addon_MailChimp {
 
         $response = wp_remote_post( $url, $args );
         $response_body = wp_remote_retrieve_body( $response );
-        
 
         return true;
     }
