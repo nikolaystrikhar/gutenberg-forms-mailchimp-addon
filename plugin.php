@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Guten Forms MailChimp
+ * Plugin Name: Gutenberg Forms - Mailchimp Add-on
  * Plugin URI: https://www.gutenbergforms.com
- * Description: This add-on connects Gutenberg Forms with MailChimp. This allows you to send leads/subscribers to your MailChimp list with the form submissions.
+ * Description: This add-on connects Gutenberg Forms with Mailchimp. This allows you to send leads/subscribers to your Mailchimp list with the form submissions.
  * Author: munirkamal
  * Author URI: https://cakewp.com/
  * Version: 1.0.0

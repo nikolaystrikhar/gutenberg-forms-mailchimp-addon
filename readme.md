@@ -1,20 +1,22 @@
-# MailChimp Add-on for Gutenberg Forms
+# Mailchimp Add-on for Gutenberg Forms
 
+[![WordPress plugin](https://img.shields.io/wordpress/plugin/dt/guten-forms-mailchimp.svg?style=flat)](https://wordpress.org/plugins/guten-forms-mailchimp/) [![WordPress plugin](https://img.shields.io/wordpress/plugin/v/guten-forms-mailchimp.svg?style=flat)](https://wordpress.org/plugins/guten-forms-mailchimp/) [![WordPress](https://img.shields.io/wordpress/v/guten-forms-mailchimp.svg?style=flat)]() [![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/munirkamal/guten-forms-mailchimp/blob/master/LICENSE)
 
-MailChimp add-on for [Gutenberg Forms](https://wordpress.org/plugins/forms-gutenberg/). Connect with MailChimp and send leads/subscribers to your MailChimp list with the form submissions.
+Mailchimp add-on for [Gutenberg Forms](https://wordpress.org/plugins/forms-gutenberg/). Connect with Mailchimp and send leads/subscribers to your Mailchimp list with the form submissions.
 
+[![Mailchimp Add-on for Gutenberg Forms](https://ps.w.org/guten-forms-mailchimp/assets/banner-1544x500.png)](https://wordpress.org/plugins/guten-forms-mailchimp/)
 
 ## Description
 
-**MailChimp Add-on for Gutenberg Forms**
+**Mailchimp Add-on for Gutenberg Forms**
 
-This add-on let's you connect with MailChimp and send leads/subscribers to your MailChimp list with the form submissions.
+This add-on let's you connect with Mailchimp and send leads/subscribers to your Mailchimp list with the form submissions.
 
 This is an add-on plugin and requires <a href="https://gutenbergforms.com/" rel="friend" title="Gutenberg Forms">Gutenberg Forms</a> plugin to work. Gutenberg Forms is the next generation **WordPress form builder plugin**.
 
 ## How it Works
 
-MailChimp add-on once enabled allow you to add an addditional form action "MailChimp". Once you add that action, you will get a settings pannel for MailChimp that let's you select your MailChimp list and map your form fields with the MailChimp fields.
+Mailchimp add-on once enabled allow you to add an addditional form action "Mailchimp". Once you add that action, you will get a settings pannel for Mailchimp that let's you select your Mailchimp list and map your form fields with the Mailchimp fields.
 
 
 ## Connect
@@ -39,6 +41,6 @@ We appreciate all contributions and don't want a wall of rules to get in the way
 
 ## Changelog
 
-= 1.0.0 (11 July 2019) =
+= 1.0.0 (14 July 2019) =
 
 - Initial release.

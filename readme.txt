@@ -1,4 +1,4 @@
-=== Guten Forms Add-on for MailChimp ===
+=== Guten Forms Add-on for Mailchimp ===
 Contributors: munirkamal
 Tags: mailchimp, wordpress form,  gutenberg form, contact form, gutenberg block, contact form plugin, forms, form builder, custom form, contact button, contact me, custom contact form, form manager, form, forms builder, forms creator, captcha, recaptcha, Akismet, email form, web form, feedback form, email submit form, message form, contact form block, wordpress form plugin
 Requires at least: 5.0
@@ -7,20 +7,20 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-MailChimp add-on for Gutenberg Forms. Connect with MailChimp and send leads/subscribers to your MailChimp list with the form submissions.
+Mailchimp add-on for Gutenberg Forms. Connect with Mailchimp and send leads/subscribers to your Mailchimp list with the form submissions.
 
 
 == Description ==
 
-= MailChimp add-on for Gutenberg Forms plugin =
+= Mailchimp add-on for Gutenberg Forms plugin =
 
-This add-on let's you connect with MailChimp and send leads/subscribers to your MailChimp list with the form submissions.
+This add-on let's you connect with Mailchimp and send leads/subscribers to your Mailchimp list with the form submissions.
 
 This is an add-on plugin and requires <a href="https://gutenbergforms.com/" rel="friend" title="Gutenberg Forms">Gutenberg Forms</a> plugin to work. Gutenberg Forms is the next generation **WordPress form builder plugin**. 
 
 = How it Works =
 
-MailChimp add-on once enabled allow you to add an addditional form action "MailChimp". Once you add that action, you will get a settings pannel for MailChimp that let's you select your MailChimp list and map your form fields with the MailChimp fields.
+Mailchimp add-on once enabled allow you to add an addditional form action "Mailchimp". Once you add that action, you will get a settings pannel for Mailchimp that let's you select your Mailchimp list and map your form fields with the Mailchimp fields.
 
 
 = Get involved with the Development =
@@ -30,7 +30,7 @@ If you are a coder and wish to contribute to this Opensource Form Builder and th
 **Gutenberg Forms Repo:**
 [https://github.com/munirkamal/gutenberg-forms](https://github.com/munirkamal/gutenberg-forms)
 
-**MailChimp Add-on Repo:**
+**Mailchimp Add-on Repo:**
 [https://github.com/CakeWP/gutenberg-forms-mailchimp-addon](https://github.com/CakeWP/gutenberg-forms-mailchimp-addon)
 
 
@@ -48,7 +48,7 @@ You may also get involved with the development via Github:
 **Gutenberg Forms Repo:**
 [https://github.com/munirkamal/gutenberg-forms](https://github.com/munirkamal/gutenberg-forms)
 
-**MailChimp Add-on Repo:**
+**Mailchimp Add-on Repo:**
 [https://github.com/CakeWP/gutenberg-forms-mailchimp-addon](https://github.com/CakeWP/gutenberg-forms-mailchimp-addon)
 
 == Screenshots ==
@@ -62,5 +62,5 @@ You may also get involved with the development via Github:
 
 == Changelog ==
 
-= 1.0.0 (11 July 2020) =
+= 1.0.0 (15 July 2020) =
 * Initial release.
